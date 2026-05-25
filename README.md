@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working on a Personal Project - WiselySplit (SplitWise RipOff but with in-app money transfer with Stripe Connect)<br>I am currently learning Advance Java (SpringBoot) and Multi-threading in Core Java and actively applying knowledge in WiselySplit Project<br>I recently graduated with 3 Year Advanced Diploma in Software Development from Mohawk College
+I am currently working on a Personal Project - WiselySplit (Expense sharing and tracking app, combines Shared and Personal Expenses)<br>I am currently learning Advance Java (SpringBoot) and how to integrate Machine Learning, and actively applying knowledge in WiselySplit Project<br>I recently graduated with 3 Year Advanced Diploma in Software Development from Mohawk College and I am looking for a full-time Junior Level Position.
 
 
 ## 🌐 Socials:
