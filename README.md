@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working on a Personal Project - WiselySplit (Expense sharing and tracking app, combines Shared and Personal Expenses)<br>I am currently learning Advance Java (SpringBoot) and how to integrate Machine Learning, and actively applying knowledge in WiselySplit Project<br>I recently graduated with 3 Year Advanced Diploma in Software Development from Mohawk College and I am looking for a full-time Junior Level Position.
+I am currently working on a Personal Project - WiselySplit (Expense sharing and tracking app, combines Shared and Personal Expenses). Activiely Learning Advance Java (SpringBoot) and how to integrate Machine Learning, and getting hands-on experience with WiselySplit Project<br>I recently graduated with 3 Year Advanced Diploma in Software Development from Mohawk College and I am looking for a full-time Junior Level Position.
 
 
 ## 🌐 Socials:
